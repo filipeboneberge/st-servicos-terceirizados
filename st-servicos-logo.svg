@@ -1,0 +1,15 @@
+<svg viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo do círculo -->
+  <circle cx="100" cy="100" r="70" fill="#2c5282"/>
+  
+  <!-- Letras ST em branco -->
+  <text x="60" y="120" font-family="Arial Black" font-size="60" fill="white">ST</text>
+  
+  <!-- Texto "SERVIÇOS TERCEIRIZADOS" -->
+  <text x="180" y="120" font-family="Arial" font-size="60" fill="#FFF" font-weight="bold">SERVIÇOS TERCEIRIZADOS</text>
+  <!-- <text x="180" y="120" font-family="Arial" font-size="28" fill="#2c5282" font-weight="bold">TERCEIRIZADOS</text> -->
+  
+  <!-- Linhas decorativas -->
+  <line x1="180" y1="130" x2="1000" y2="130" stroke="#FFF" stroke-width="4"/>
+  <line x1="180" y1="135" x2="1000" y2="135" stroke="#FFF" stroke-width="2"/>
+</svg>
