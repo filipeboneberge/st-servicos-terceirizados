@@ -1,4 +1,4 @@
-# 💻 <a href="https://codigocerto.netlify.app/"> ST - SERVIÇOS TERCEIRIZADOS </a>
+# 💻 <a href="https://stservicosterceirizados.netlify.app/"> ST - SERVIÇOS TERCEIRIZADOS </a>
 
 <i>Este projetos é um desafio do curso de bootstrap do Matheus Battisti onde teiriamos que criar um projeto responsivo com 3 slider e 6 cards contendo 4 cards por linha .</i>
 
@@ -8,7 +8,7 @@
 
 
 <h2>Link do projeto </h2>
-📎<a href="https://codigocerto.netlify.app/"><i>ST - SERVIÇOS TERCEIRIZADOS</i></a>
+📎<a href="https://stservicosterceirizados.netlify.app/"><i>ST - SERVIÇOS TERCEIRIZADOS</i></a>
 
 <h2>Tecnologis Utilizadas </h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
